@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1080" viewBox="0 0 1080 1080">
+<title>Mother Bumper M</title>
+<rect width="1080" height="1080" rx="200" fill="#FFD21F"/>
+<rect x="70.0" y="70.0" width="940" height="940" rx="170" ry="170" fill="#FFFFFF" stroke="#111111" stroke-width="56"/>
+<path transform="translate(198.34 800.00) scale(0.34899 -0.34899)" fill="#111111" d="M96 0H504V576C504 686 494 933 490 1145C539 926 600 693 636 576L812 0H1148L1321 576C1358 697 1421 943 1469 1170C1465 953 1454 690 1454 576V0H1862V1490H1223L1091 1024C1060 915 1015 686 980 491C946 686 899 915 868 1024L734 1490H96Z"/>
+</svg>
